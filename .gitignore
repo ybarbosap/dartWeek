@@ -1,0 +1,13 @@
+api/vscode
+api/myapp/__pycache__
+api/myapp/migrations
+
+api/myapp/ext/__pycache__
+
+api/myapp/models/__pycache__
+
+api/myapp/blueprints/__pycache__
+api/myapp/blueprints/__pycache__
+api/myapp/blueprints/category/__pycache__
+api/myapp/blueprints/transaction/__pycache__
+api/myapp/blueprints/user/__pycache__
